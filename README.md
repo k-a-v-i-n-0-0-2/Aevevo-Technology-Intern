@@ -1,8 +1,12 @@
 # 🏥 Medicare Portal - Frontend Developer Internship Assessment
 
+[![Live Demo](https://img.shields.io/badge/🚀%20Live%20Demo-aevelo--tech--assessment.netlify.app-7675ed?style=for-the-badge&logo=netlify&logoColor=white)](https://aevelo-tech-assessment.netlify.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-k--a--v--i--n--0--0--2-181717?style=for-the-badge&logo=github)](https://github.com/k-a-v-i-n-0-0-2/Aevevo-Technology-Intern)
+
 **Candidate:** Kavin M  
 **Role:** Python Full Stack Developer Intern (Frontend Assessment)  
-**Live Development Url:** `http://localhost:5173/`
+**🌐 Live URL:** [https://aevelo-tech-assessment.netlify.app/](https://aevelo-tech-assessment.netlify.app/)  
+**📁 Repository:** [github.com/k-a-v-i-n-0-0-2/Aevevo-Technology-Intern](https://github.com/k-a-v-i-n-0-0-2/Aevevo-Technology-Intern)
 
 ---
 
@@ -75,8 +79,8 @@ Ensure you have **Node.js** (v18 or higher recommended) and **npm** (v9 or highe
 ### 1. Clone & Install
 ```bash
 # Clone the repository
-git clone <repository-url>
-cd Assessment
+git clone https://github.com/k-a-v-i-n-0-0-2/Aevevo-Technology-Intern.git
+cd Aevevo-Technology-Intern
 
 # Install project dependencies
 npm install
